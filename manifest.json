@@ -1,0 +1,11 @@
+{
+    "name": "To Do List",
+    "version": "1.0.0",
+    "description": "This is an extension about the To Do List.",
+    "manifest_version": 3,
+    "author": "Raul Tindogan",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "To Do List"
+    }
+}
